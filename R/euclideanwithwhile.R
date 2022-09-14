@@ -1,3 +1,14 @@
+#' Euclidean Algorithm
+#'
+#' @param a Numeric scalar or integer
+#' @param b Numeric scalar or integer
+#'
+#' @return   Greatest common divisor of a and b
+#' @export    
+#'
+#' @examples  euclidean(123612, 13892347912) 
+#'            euclidean(100, 1000)
+#' 
 euclidean<- function(a,b){
   
   if(a==0 | b==0)
