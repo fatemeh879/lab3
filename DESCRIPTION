@@ -1,4 +1,4 @@
-Package: team13lab3
+Package: lab3
 Title: Creating 2 functions including Euclidean algorithm and Dijkstras algorithm for lab3
 Version: 0.0.0.9000
 Authors@R: 
