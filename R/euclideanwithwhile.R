@@ -8,6 +8,7 @@
 #'
 #' @examples  euclidean(123612, 13892347912) 
 #'            euclidean(100, 1000)
+#@source \url{https://en.wikipedia.org/wiki/Euclidean algorithm}
 #' 
 euclidean<- function(a,b){
   
