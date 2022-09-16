@@ -1,12 +1,12 @@
-Package: lab3
-Title: Creating Dijkstras algorithm and Dijkstras algorithm for lab3
+Package: team13lab3
+Title: Creating 2 functions including Euclidean algorithm and Dijkstras algorithm for lab3
 Version: 0.0.0.9000
 Authors@R: 
-    person("fatemeh", "sharifi", , "sharifiasl.fateme@yahoo.com", role = c("aut", "cre"),
+    person("Fatemeh", "Sharifi", , "sharifiasl.fateme@yahoo.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-    person("samira", "goudarzi", , "samira.goudarzi@gmail.com", role = c("aut", "cre"),
+    person("Samira", "Goudarzi", , "samira.goudarzi@gmail.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Creating Dijkstras algorithm and Dijkstras algorithm for lab3.
+Description:  The package installs the lab3 library with 2 functions including Euclidean algorithm and Dijkstras algorithm.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
@@ -14,3 +14,6 @@ RoxygenNote: 7.2.1
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Depends: 
+    R (>= 2.10)
+LazyData: true
